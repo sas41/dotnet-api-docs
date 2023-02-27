@@ -430,7 +430,7 @@
         <Parameter Name="typeInfo" Type="System.Reflection.TypeInfo" RefType="this" />
         <Parameter Name="interfaceType" Type="System.Type">
           <Attributes>
-            <Attribute FrameworkAlternate="net-6.0;net-7.0">
+            <Attribute FrameworkAlternate="net-6.0;net-7.0;windowsdesktop-5.0">
               <AttributeName Language="C#">[System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.NonPublicMethods | System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicMethods)]</AttributeName>
               <AttributeName Language="F#">[&lt;System.Diagnostics.CodeAnalysis.DynamicallyAccessedMembers(System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.NonPublicMethods | System.Diagnostics.CodeAnalysis.DynamicallyAccessedMemberTypes.PublicMethods)&gt;]</AttributeName>
             </Attribute>
